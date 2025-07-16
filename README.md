@@ -10,7 +10,7 @@ Please insert one csv file at a time on the Files folder. After the insertion ru
 - [X] Import the CSV functionalities
 - [X] Prompts for the user
 - [X] Basic filtering
-- [ ] Output a csv file with emails
+- [x] Output a csv file with emails
 - [ ] Function to deal with wrong import
 - [ ] Advanced filtering
 - [ ] Code optimization
