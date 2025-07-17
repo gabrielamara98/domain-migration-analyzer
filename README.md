@@ -11,6 +11,6 @@ Please insert one csv file at a time on the Files folder. After the insertion ru
 - [X] Prompts for the user
 - [X] Basic filtering
 - [x] Output a csv file with emails
-- [ ] Function to deal with wrong import
-- [ ] Advanced filtering
+- [x] Function to deal with wrong import
+- [x] Advanced filtering
 - [ ] Code optimization
